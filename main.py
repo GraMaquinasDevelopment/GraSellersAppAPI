@@ -1,13 +1,14 @@
 # main.py
 from fastapi import FastAPI
 from uvicorn import run
-
 from Controller.controller_user_authenticate import router as controller_router
+from routes import router as dados_router
 
 app = FastAPI()
 
 # Adicione o roteador do controlador de autenticação de usuário ao aplicativo
 app.include_router(controller_router)
+app.include_router(dados_router)
 
 @app.get("/")
 async def root():

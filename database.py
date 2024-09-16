@@ -3,10 +3,11 @@ import mysql.connector
 
 def connect_to_database():
     # Credenciais do banco de dados (substitua com suas próprias credenciais)
-    db_host = "192.168.0.100"
+    db_host = "localhost"#192.168.0.100"
     db_port = 3306
     db_user = "root"
-    db_password = "cli801"
+    db_password = "root"
+    #cli801"
     db_database = "grasellers"
 
     # Estabelecer a conexão com o banco de dados
