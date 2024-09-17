@@ -15,4 +15,4 @@ async def root():
     return {"message": "Hello World Teste Eback"}
 
 if __name__ == "__main__":
-    run(app, host="127.0.0.1", port=8000)
+    run(app, host="127.0.0.1", port=8001)

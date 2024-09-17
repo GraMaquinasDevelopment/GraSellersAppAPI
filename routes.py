@@ -602,6 +602,112 @@ async def get_permissions(
             connection.close()
 
 
+@router.get("/get/supporttables")
+async def export_all_data(
+    credentials: HTTPAuthorizationCredentials = Depends(security)
+):
+    # Valida o token
+    #await validate_token(credentials)
+
+    # Conecta ao banco de dados
+    connection = None
+    cursor = None
+
+    try:
+        connection = database.connect_to_database()
+        cursor = connection.cursor()
+
+        # Consultas para todas as tabelas
+        tables = [
+            "customertype",
+            "closingforecast",
+            "negotiationstatus",
+            "customersource",
+            "priority",
+            "brand",
+            "model",
+            "group",          # Tabela que é uma palavra reservada
+            "subgroup",
+            "equipment",
+            "visittype",
+            "attendancetype",
+            "satisfaction"
+        ]
+
+        data = {}
+        for table in tables:
+            # Construir a consulta dinamicamente com tabelas escapadas
+            query = f"""
+            SELECT
+                `{table}UID` AS UID,
+                description
+            FROM `{table}`
+            WHERE isActive = 1
+            """
+            cursor.execute(query)
+            results = cursor.fetchall()
+            columns = [desc[0] for desc in cursor.description]  # Obter nomes das colunas
+            formatted_results = [dict(zip(columns, row)) for row in results]
+            data[table] = formatted_results
+
+        return data  # FastAPI converte automaticamente para JSON
+
+    except Exception as e:
+        # Log do erro
+        print(f"Error in export_all_data: {e}")
+        raise HTTPException(status_code=500, detail="Internal Server Error")
+
+    finally:
+        if cursor:
+            cursor.close()
+        if connection:
+            connection.close()
+
+@router.get("/get/companyequipment")
+async def get_company_equipment(
+    credentials: HTTPAuthorizationCredentials = Depends(security)
+):
+    # Valida o token
+    await validate_token(credentials)
+
+    # Conecta ao banco de dados
+    connection = None
+    cursor = None
+    try:
+        connection = database.connect_to_database()
+        cursor = connection.cursor()
+
+        # Executa a consulta
+        query = """
+        SELECT
+            companyequipmentUID,
+            modelUID,
+            brandUID,
+            subgroupUID,
+            groupUID
+        FROM companyequipment
+        WHERE isActive = 1
+        """
+        cursor.execute(query)
+        results = cursor.fetchall()
+
+        # Converte os resultados em formato JSON
+        columns = [desc[0] for desc in cursor.description]  # Obter nomes das colunas
+        formatted_results = [dict(zip(columns, row)) for row in results]
+
+        return formatted_results  # FastAPI converte automaticamente para JSON
+
+    except Exception as e:
+        # Log do erro
+        print(f"Error in get_company_equipment: {e}")
+        raise HTTPException(status_code=500, detail="Internal Server Error")
+
+    finally:
+        if cursor:
+            cursor.close()
+        if connection:
+            connection.close()
+
 @router.get("/get/users")
 async def get_users(credentials: HTTPAuthorizationCredentials = Depends(security)):
     # Valida o token
@@ -659,6 +765,9 @@ async def get_users(credentials: HTTPAuthorizationCredentials = Depends(security
             cursor.close()
         if connection:
             connection.close()
+
+
+
 
 @router.get("/get/customers")
 async def get_customers(
