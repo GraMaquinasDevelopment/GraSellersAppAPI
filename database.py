@@ -1,16 +1,13 @@
-# database.py
-import mysql.connector
+import pymysql
 
 def connect_to_database():
-    # Credenciais do banco de dados (substitua com suas próprias credenciais)
-    db_host = "192.168.0.100"
+    db_host = "192.168.0.129"
     db_port = 3306
     db_user = "root"
-    db_password = "cli801"
+    db_password = "GRA-@2025maquinas"
     db_database = "grasellers"
 
-    # Estabelecer a conexão com o banco de dados
-    db_connection = mysql.connector.connect(
+    db_connection = pymysql.connect(
         host=db_host,
         port=db_port,
         user=db_user,
@@ -18,8 +15,7 @@ def connect_to_database():
         database=db_database
     )
 
-    # Verificar se a conexão foi estabelecida corretamente
-    if db_connection.is_connected():
+    if db_connection.open:
         print("Conexão bem-sucedida ao banco de dados.")
     else:
         print("Falha ao conectar ao banco de dados.")
