@@ -41574,3 +41574,2200 @@ INFO:root:createdate: 2026-05-14T10:28:09.000
 INFO:root:isActive: 1
 INFO:root:negotiationUID: ED1DED27-976E-400F-8695-BC6CE6975C44
 INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 1
+INFO:venv:total_inserts customers: 4
+INFO:venv:expected_inserts customers: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: E4D32DD8-7A1D-47A4-A880-DD5338678FA4
+INFO:root:customerUID: D0CAD509-C52C-4242-A102-852ED3E70021
+INFO:root:closingforecastUID: 1B63AC66-7C44-4459-BDF1-0C41D2360E77
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: Máquina usada, XE215BR, ano 2015.
+INFO:root:createdate: 2026-05-19T13:19:34.000
+INFO:root:createuserid: 13
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: EEDFE778-D913-4AC5-99EA-CC11B9859818
+INFO:root:attendedName: Prefeito João Paulo de vice
+INFO:root:visitNumber: 4
+INFO:root:latitude: -28.7407228
+INFO:root:longitude: -51.7009836
+INFO:root:note: Aguardando liberação dos recursos pra aquisição de novos equipamentos
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-19T11:47:17.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 35BDDD8F-200F-487B-853D-C8877CE614EC
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: ABABFC8C-3547-475B-82F8-FF8E5E94D90F
+INFO:root:attendedName: Paulo
+INFO:root:visitNumber: 2
+INFO:root:latitude: -28.7329898
+INFO:root:longitude: -51.7037345
+INFO:root:note: Paulo não esta na cidade está no interior vendo uma obra
+INFO:root:concerns: None
+INFO:root:nextSteps: Por telefone me disse que está tudo travado
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-19T14:04:52.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 3B300020-9CF4-4DEB-9711-B5EC2054012D
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: EA17E1F2-A7AF-4BBC-8C2A-880C2AC396AB
+INFO:root:customerUID: BCAEACCD-B0BF-4EF2-B6E5-4C4D2715673E
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Em conversa com Dalpas me disse que está tudo parado e não tem previsão de compra de novos equipamentos
+INFO:root:createdate: 2026-05-19T14:06:15.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 40804942-488A-4550-86E9-3437E57F7726
+INFO:root:attendedName: Dalpas
+INFO:root:visitNumber: 1
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Em conversa com Dalpas me disse que está tudo parado e não tem previsão de compra de novos equipamentos
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-19T14:06:43.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: EA17E1F2-A7AF-4BBC-8C2A-880C2AC396AB
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 8D08EF51-159A-4EC8-89F2-BB6AECAFE8E0
+INFO:root:attendedName: Juarez Sec Obras
+INFO:root:visitNumber: 5
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Aguardando Emenda Parlamentar
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-19T14:55:14.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 2EE0FA49-BD90-464B-A3DC-1FEBD089208F
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 523FB5A3-401D-41F2-BFDB-57982D1BB456
+INFO:root:attendedName: Egon sec. Obras
+INFO:root:visitNumber: 3
+INFO:root:latitude: -29.4021
+INFO:root:longitude: -53.00728
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Prefeito quer comprar retroescavadeira e motoniveladora. Mas está com as contas no limite. Está a procura de verbas pra fazer as compras.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-14T10:44:27.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 462B42BA-F180-44D9-928A-E7DF428446EF
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 7DB935B7-30A6-4B67-9D4C-3A968AE4F6B7
+INFO:root:attendedName: Prefeito Gelson
+INFO:root:visitNumber: 8
+INFO:root:latitude: -28.0574445
+INFO:root:longitude: -53.0676404
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Fazer adesão de uma Mini carregadeira. Prefeito quer parcelar a compra
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-19T11:18:04.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 64DA0FED-7FB5-4F0C-8DE5-2E712BFEA133
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 56F896E4-2F0A-4A73-A5AE-02E3995D13B5
+INFO:root:attendedName: Vergílio
+INFO:root:visitNumber: 3
+INFO:root:latitude: -27.8880055
+INFO:root:longitude: -53.3017068
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Vai fazer adesão da Ata na próxima semana da XE 80. Dinheiro do finisa.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-19T15:07:15.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: C2B5FEC8-BBF4-4A79-9E4C-87EAA22DEE31
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 04596521-DD91-4CC1-B920-361A4A314E45
+INFO:root:attendedName: Matheus
+INFO:root:visitNumber: 6
+INFO:root:latitude: -29.3605048
+INFO:root:longitude: -50.8818869
+INFO:root:note: Aguardo de recurso.
+INFO:root:concerns: Liberação de recurso
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-19T14:37:29.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 70DEE75C-5A07-4E32-9AFF-BD48CFA7AB91
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 430788AE-6684-436A-9BA5-77A1670B6E8C
+INFO:root:attendedName: Noslen
+INFO:root:visitNumber: 5
+INFO:root:latitude: -29.3888507
+INFO:root:longitude: -50.873829
+INFO:root:note: Cliente diz que está parado até a venda. Tem esperança no segundo semestre
+INFO:root:concerns: Nenhuma
+INFO:root:nextSteps: Seguir visitando
+INFO:root:opportunities: Futuras vendas
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EAE2BBF9-266F-4175-AC67-299AA4B4F15B
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-19T15:56:19.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 7B389442-1162-40A1-8BF6-430C8A6B80B1
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 0F363707-B887-4BD9-B57C-D0790A81C81D
+INFO:root:attendedName: Marcelo
+INFO:root:visitNumber: 2
+INFO:root:latitude: -29.3574594
+INFO:root:longitude: -50.8497226
+INFO:root:note: Pretendo comprar uma usada
+INFO:root:concerns: Nenhuma
+INFO:root:nextSteps: Seguir atendimento
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: 6E1FD2E8-D816-4090-B28D-FD305028B069
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-19T10:01:43.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 7CAC0A25-D720-44FF-B958-AE41BE5BAD37
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 5EC7FC0D-0EBF-4997-877A-318397618705
+INFO:root:attendedName: Roque
+INFO:root:visitNumber: 3
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Aguardando ok do contrato para compra.
+INFO:root:concerns: Sair o contrato
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-19T14:38:18.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: FED4BB8A-FAD1-41F9-BBF1-1E1D3B4D8159
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 70450253-090D-4379-98AF-DBEA4C71767C
+INFO:root:attendedName: Eduardo
+INFO:root:visitNumber: 2
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Aguardando por liberação de empréstimo pra aquisição de novas maquinas
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-19T16:02:29.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 85044DB8-A517-4C0A-9343-243BF0790337
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: F6ED621A-A957-4DDD-80F7-729D348E2F50
+INFO:root:attendedName: Anderson
+INFO:root:visitNumber: 5
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Em conversa com o Anderson a liugong ganhou o pregão
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-19T16:45:21.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 991431A1-8BFA-4368-9DAE-C523D2D8E96F
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 336CE2CC-C88B-41E9-B3D7-D19D8A4358A5
+INFO:root:attendedName: Prefeito
+INFO:root:visitNumber: 7
+INFO:root:latitude: -29.3620025
+INFO:root:longitude: -49.9321109
+INFO:root:note: Prefeito na Festa da Terceira Idade.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EAE2BBF9-266F-4175-AC67-299AA4B4F15B
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-15T13:01:15.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 32EC3DC3-3673-4595-9278-627FBEACB05B
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 71FC1E49-27D1-4B3D-A45F-9271B1CE937A
+INFO:root:attendedName: Sec. Claudio
+INFO:root:visitNumber: 2
+INFO:root:latitude: -29.510837
+INFO:root:longitude: -51.9625317
+INFO:root:note: Deixado orçamento de equipamentos. Estão atrás de recursos para compra.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T20:40:09.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 6DF43265-A554-45C7-9422-EF097196E09A
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 1E564D76-1DC8-44BD-93D9-ED3D2DBED437
+INFO:root:attendedName: Sec. Mauro/ Liliane
+INFO:root:visitNumber: 11
+INFO:root:latitude: -29.5108764
+INFO:root:longitude: -51.9625458
+INFO:root:note: Estão aderindo Ata de Registro de Preços para aquisição de mais uma Mini Carregador. Interesse em Motoniveladora Nova para futuro.Motoniveladora GR 1803 com problemas . Assinado o Dep. Técnico.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas constantes.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T20:43:52.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 3CBD6913-955B-4171-A247-94EB3BB82FEC
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: DBA00759-3B21-4CFA-8C12-A7A0664CEFA3
+INFO:root:attendedName: Alex
+INFO:root:visitNumber: 5
+INFO:root:latitude: -29.5108441
+INFO:root:longitude: -51.9625563
+INFO:root:note: Alex não estava novamente.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EAE2BBF9-266F-4175-AC67-299AA4B4F15B
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T20:44:58.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: D2B9924E-E03F-4C0C-9E84-2AA05F9A3565
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 1
+INFO:venv:total_inserts customers: 4
+INFO:venv:expected_inserts customers: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 5C2252FF-89DA-41D0-819C-0EE4C754353B
+INFO:root:customerUID: 9FC3A7C8-3477-492E-9C71-C9CF8ABA074A
+INFO:root:closingforecastUID: 41283343-9D8B-4E0E-B73B-C37E2378A2B2
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: None
+INFO:root:createdate: 2026-05-19T20:58:06.000
+INFO:root:createuserid: 8
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 28134EEB-B830-436A-A8E3-F4FBC80F350A
+INFO:root:attendedName: Alexandre/ Carlos
+INFO:root:visitNumber: 1
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Compra de Escavadeira pode acontecer nos próximos meses.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T20:59:40.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 5C2252FF-89DA-41D0-819C-0EE4C754353B
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: F0C7D436-6BDC-480E-AA66-40DE30DB93FF
+INFO:root:attendedName: Pref.Luciano
+INFO:root:visitNumber: 5
+INFO:root:latitude: -29.5108355
+INFO:root:longitude: -51.9625392
+INFO:root:note: Continua aguardando recursos de emendas para compra de média escavadeira.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas constantes.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T21:02:05.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: DD8FFA19-B4F8-4830-A542-97810003C534
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 86F678D0-CAC9-40B6-85DC-C914A205CD8D
+INFO:root:attendedName: Sec. Matheus/ Pref. Lola
+INFO:root:visitNumber: 2
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Aguardando liberação de recursos de emenda para compra de Escavadeira de 15 toneladas. Retro XCMG novamente na GRA para concerto e avaliação.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T21:05:49.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 57344967-95C0-4E7F-9364-9494853CFA3E
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 147654B9-60EB-40B5-A8D9-1C7634CCD426
+INFO:root:customerUID: 08D1DF6E-5F88-4595-9F69-BEC084E483B7
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: ABBAF565-3936-460D-89B6-2400789184AD
+INFO:root:note: None
+INFO:root:createdate: 2026-05-19T21:06:42.000
+INFO:root:createuserid: 8
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 5311DE9E-C294-401C-990C-CE329E2975FB
+INFO:root:attendedName: Pref. Madalena
+INFO:root:visitNumber: 1
+INFO:root:latitude: -29.5108222
+INFO:root:longitude: -51.9625579
+INFO:root:note: Prefeita nas obras pelo interior.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EAE2BBF9-266F-4175-AC67-299AA4B4F15B
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T21:08:00.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 147654B9-60EB-40B5-A8D9-1C7634CCD426
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: A81481CE-1FD6-4DBA-98AD-5306EED389ED
+INFO:root:attendedName: Prefeita
+INFO:root:visitNumber: 3
+INFO:root:latitude: -29.5108177
+INFO:root:longitude: -51.9625602
+INFO:root:note: Prefeita em Porto Alegre.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EAE2BBF9-266F-4175-AC67-299AA4B4F15B
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T21:09:06.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 698F0AED-DE53-4EDA-A3F8-E2F64F54EC27
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: F561622B-CFC6-4BC4-95B3-32EFCD5CDAEA
+INFO:root:attendedName: Pref. Marcos
+INFO:root:visitNumber: 8
+INFO:root:latitude: -29.5108373
+INFO:root:longitude: -51.9625618
+INFO:root:note: Interesse em compra de 02 Mini Escavadeiras de 8 toneladas novas.
+INFO:root:concerns: None
+INFO:root:nextSteps: Visitar novamente na próxima semana.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T21:10:45.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 919B2EFA-C0FC-4263-A355-573AB191B222
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 912BB5D2-320A-4D7F-B2CF-FBADB38F1327
+INFO:root:attendedName: Mauri
+INFO:root:visitNumber: 12
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Interesse em Rolinho Compactador. Deixado proposta.
+INFO:root:concerns: None
+INFO:root:nextSteps: Visitar novamente na semana.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T21:12:46.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: BD0AFCFB-2459-4B59-A4F8-A33DF249293B
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: F1C40817-6D4A-413A-AC71-ECAD51DE0FC5
+INFO:root:attendedName: Pref.Marcio
+INFO:root:visitNumber: 3
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Continua atrás de recursos para compra de equipamentos.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T21:14:12.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 6DD765CC-B333-4BBA-AE66-45BB831A8636
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 507A80CC-74DA-4F5A-BDB0-59E130DAE618
+INFO:root:attendedName: Noiva do Andrei
+INFO:root:visitNumber: 9
+INFO:root:latitude: -29.5108741
+INFO:root:longitude: -51.962533
+INFO:root:note: Deixado cheque que voltou na ocasião da venda/ não venda da Pá Carregadeira.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EAE2BBF9-266F-4175-AC67-299AA4B4F15B
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T21:16:36.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: E2883BA5-70BF-4B56-8D0C-07F43C6C51E4
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 46394B87-B8D0-46B1-892C-B7E904C86F75
+INFO:root:attendedName: Esposa do Zezinho
+INFO:root:visitNumber: 5
+INFO:root:latitude: -29.5109064
+INFO:root:longitude: -51.9625193
+INFO:root:note: Zezinho não estava. Falado com esposa.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas de rotina.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-19T21:18:09.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 24BFCEEC-72DE-4129-B370-EC205BA48189
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: E1425D24-08F2-4439-96EA-E0B7CAD20E99
+INFO:root:customerUID: 421A7C49-F4A6-4996-9ABF-C7B50A5DB776
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Em conversa com o prefeito Felipe pro próximo ano vai adquirir uma motoniveladora
+INFO:root:createdate: 2026-05-20T10:13:34.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 00878E7E-17B1-4A1B-A3EA-E92AB132F351
+INFO:root:attendedName: Felipe
+INFO:root:visitNumber: 1
+INFO:root:latitude: -28.6312091
+INFO:root:longitude: -51.5741421
+INFO:root:note: Em conversa com o prefeito Felipe pro próximo ano vai adquirir uma motoniveladora
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-20T10:14:21.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: E1425D24-08F2-4439-96EA-E0B7CAD20E99
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: D014F3F6-4A46-4F19-BD7D-2A3BC04E1943
+INFO:root:attendedName: Prefeito Nelson
+INFO:root:visitNumber: 3
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Acertando adesão a Ata do RoloCompactador
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-20T13:00:31.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 1B2DC96F-40E4-460E-AEBA-2EAB3414642D
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 7EC4ECD3-E2BB-4610-961E-6781E1CFF525
+INFO:root:attendedName: Nego / Nico
+INFO:root:visitNumber: 2
+INFO:root:latitude: -27.7845271
+INFO:root:longitude: -54.2334891
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Negociando questão de TX de banco
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-20T14:08:08.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 76025AC3-C32C-4A7A-922B-B944F53D5FB2
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 6D9B514C-6C86-4794-A1AA-8756863F23AE
+INFO:root:attendedName: Secretario Ale
+INFO:root:visitNumber: 6
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Negociação do Contrato para entrega do equipamento
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-20T14:56:10.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 420DA981-2A9E-4AEA-87F4-CDEBC9FF01E1
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 17164F51-64A4-40C1-9FA1-ADF318AB4166
+INFO:root:attendedName: Sec. ADM.
+INFO:root:visitNumber: 7
+INFO:root:latitude: -28.5606782
+INFO:root:longitude: -52.7499278
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Estamos fazendo a adesão da Mini carregadeira.  Mas não tem ainda a resposta de quando vai sair a emenda.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-20T15:02:12.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 5A2169F7-9B27-4749-8853-F6D54DD849D3
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 15CE2075-E2AC-469E-B58C-F54EB048B232
+INFO:root:attendedName: Leonel
+INFO:root:visitNumber: 4
+INFO:root:latitude: -28.5012944
+INFO:root:longitude: -52.5682472
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Não estão querendo aderir a Ata antes de sair a emenda.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-20T14:22:28.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 6962D284-B92A-4694-ACD0-E772E57417E0
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 960F519D-61A3-4E02-9F2C-07D4839C1E00
+INFO:root:attendedName: Prefeito Marcelo
+INFO:root:visitNumber: 10
+INFO:root:latitude: -28.5359217
+INFO:root:longitude: -52.4658623
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Está cobrando a emenda que está pra vir de 200 mil pra fazer o contrato e o empenho.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-20T13:55:24.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 78DD100E-6198-4E00-8DC5-6D61CFBE6010
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: D0E15460-4BA9-4985-9587-67D6144F5842
+INFO:root:attendedName: Marino
+INFO:root:visitNumber: 6
+INFO:root:latitude: -28.6676533
+INFO:root:longitude: -53.6186783
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Estamos em negociação pra fazer a adesão da XE 225
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-20T09:27:31.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 8A3E0594-59DB-47E9-880F-DBE9E3D985A5
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 36AC51B1-43DB-49D4-AC5A-AD458FF8B838
+INFO:root:attendedName: Vice Prefeito Schups
+INFO:root:visitNumber: 4
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Alinhando contrato do RoloCompactador
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-20T15:31:13.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 63BAAE17-EC00-4C44-B405-9344D8A167BE
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 7A360A59-3065-4ED2-B3B3-880341569487
+INFO:root:attendedName: Não atendido
+INFO:root:visitNumber: 2
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Tentado novo contato com o Lindones presencial e por telefone não tive retorno
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: D4ADAF02-EE86-49E5-B03B-F1584C775025
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-20T16:08:59.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 0B21EE87-C5FE-4808-9317-48C5BE086969
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: E29C9446-6185-48DD-A1BD-7A78F315995E
+INFO:root:attendedName: Secretário geral
+INFO:root:visitNumber: 2
+INFO:root:latitude: -28.2091976
+INFO:root:longitude: -51.5266931
+INFO:root:note: Prefeito está em Brasília e o vice prefeito está fora vendo obras
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-20T13:41:05.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: DAFB58EF-956E-4209-BF40-9ECEABA4E49E
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: FD423C5F-8FB2-45F9-8BE1-CEE5D7497D81
+INFO:root:customerUID: 0F2E0804-BEC1-4FE7-A276-D2469E87B198
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Cliente estava contando uma mini escavadeira, parou com o projeto por enquanto, mais pra frente vai entrar em contato sem condições financeiras no momento
+INFO:root:createdate: 2026-05-20T14:56:23.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: A427C304-38AC-4C78-B259-AF3A86154377
+INFO:root:attendedName: Daniel
+INFO:root:visitNumber: 1
+INFO:root:latitude: -28.213184
+INFO:root:longitude: -51.509716
+INFO:root:note: Cliente estava contando uma mini escavadeira, parou com o projeto por enquanto, mais pra frente vai entrar em contato sem condições financeiras no momento
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-20T14:57:02.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: FD423C5F-8FB2-45F9-8BE1-CEE5D7497D81
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: CC647775-7E2F-41CB-8B22-6E07C19A0C0E
+INFO:root:customerUID: 44D926B5-C4EC-466E-BA89-C0BF4BD1A054
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Cliente estava contando novas máquinas, mas não vai mais fazer novas aquisições até passar o período eleitoral
+INFO:root:createdate: 2026-05-21T08:35:51.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 9FF82EB6-8F13-4B2F-B830-A19FF41B09B6
+INFO:root:attendedName: Evandro
+INFO:root:visitNumber: 1
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Cliente estava contando novas máquinas, mas não vai mais fazer novas aquisições até passar o período eleitoral
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: D4ADAF02-EE86-49E5-B03B-F1584C775025
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-21T08:36:20.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: CC647775-7E2F-41CB-8B22-6E07C19A0C0E
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: D124EE1E-AC9F-43AE-BA8C-8176AABADE12
+INFO:root:customerUID: 0AED780E-B7F1-4830-AD7F-1A459B67B3D3
+INFO:root:closingforecastUID: EF65CD66-6DD2-4EB7-8BB4-79BEB47326DD
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: Negociação em fechamento.
+INFO:root:createdate: 2026-05-21T09:00:24.000
+INFO:root:createuserid: 102
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 080FCDB2-C60D-4EBB-BA84-2C63258A05A6
+INFO:root:attendedName: Ademir
+INFO:root:visitNumber: 1
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Passado proposta em uma XE180
+INFO:root:opportunities: Próxima visita no dia 25/05
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-21T09:01:47.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: D124EE1E-AC9F-43AE-BA8C-8176AABADE12
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 480F4020-03F6-48D7-866D-03ECBCBF8292
+INFO:root:attendedName: Bianca
+INFO:root:visitNumber: 2
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Em conversa com a recepcionista Bianca, a Jaimir responsável de compras de máquinas não esta essa semana na empresa, deixo contato e pego o contato dele já entrei em contato aguardando retorno
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-21T09:10:35.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 69CB9127-1424-40E5-952A-4495A281A16A
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: A7474DB3-53EB-4DDF-A520-700D3F34A51E
+INFO:root:customerUID: 8DBAEA04-C9E2-4AD7-9915-D209B9FD2341
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: ABBAF565-3936-460D-89B6-2400789184AD
+INFO:root:note: Negociação de máquinas é somente a matriz em Botuverá
+INFO:root:createdate: 2026-05-21T09:33:14.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: CCF0B2F5-F658-47FD-BD97-DDC9EBD61F22
+INFO:root:attendedName: Alex
+INFO:root:visitNumber: 1
+INFO:root:latitude: -28.5020044
+INFO:root:longitude: -50.9497189
+INFO:root:note: Negociação de máquinas é somente a matriz em Botuverá
+INFO:root:concerns: None
+INFO:root:nextSteps: Passar de vez em.quando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: D4ADAF02-EE86-49E5-B03B-F1584C775025
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-21T09:33:55.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: A7474DB3-53EB-4DDF-A520-700D3F34A51E
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: D0FCEE0F-4B38-4041-864D-044BE78891E7
+INFO:root:attendedName: Gerson
+INFO:root:visitNumber: 9
+INFO:root:latitude: -29.7040838
+INFO:root:longitude: -52.4403861
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Fui cobrar um cheque.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 13
+INFO:root:createdate: 2026-05-20T10:50:30.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 1A97B1B4-A87E-4283-874D-70BD9A2F7753
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: A904283D-624E-4E5E-81B8-5C6DF37CC921
+INFO:root:attendedName: Claudemir
+INFO:root:visitNumber: 10
+INFO:root:latitude: -29.6037557
+INFO:root:longitude: -52.6867135
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Vai ser feito adesão a ATA cideja.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 13
+INFO:root:createdate: 2026-05-21T10:47:09.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: C00AE371-03DB-4C4B-96CD-80ECF049EF5B
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 025F28BE-2940-4A90-A898-7182E7259556
+INFO:root:attendedName: Xanda
+INFO:root:visitNumber: 2
+INFO:root:latitude: -28.53423
+INFO:root:longitude: -50.9574975
+INFO:root:note: Em conversa com a Xanda proprietária, os negócios estão parados no momento deu uma segurada nas compras de equipamentos, mas quer conhecer mais sobre a XCMG, equipamentos elétricos, e mais sobre a mineração,
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando 
+Levar ela pra conhecer a fábrica em Minas gerais
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: 6E1FD2E8-D816-4090-B28D-FD305028B069
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-21T10:56:25.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: C5B73D78-E950-4FCB-9BA0-DF699FA31AC8
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 1
+INFO:venv:total_inserts customers: 5
+INFO:venv:expected_inserts customers: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 8FB91B6F-8644-48D0-B192-42090A29888D
+INFO:root:customerUID: FF042160-8A97-481D-85A9-1A2343C566B4
+INFO:root:closingforecastUID: 1B63AC66-7C44-4459-BDF1-0C41D2360E77
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: None
+INFO:root:createdate: 2026-05-21T14:07:38.000
+INFO:root:createuserid: 17
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: D473BDE0-32F5-429C-8F46-886D24635CB1
+INFO:root:attendedName: Roberta
+INFO:root:visitNumber: 9
+INFO:root:latitude: -29.7466248
+INFO:root:longitude: -52.277372
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Visita de rotina
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: 6E1FD2E8-D816-4090-B28D-FD305028B069
+INFO:root:createuserid: 13
+INFO:root:createdate: 2026-05-22T11:53:53.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 72C7BA50-CD51-485C-BD6B-EF4A1B68EF2F
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: CEF3243A-60C6-4E82-AE14-5B4CBBB3425F
+INFO:root:customerUID: FF042160-8A97-481D-85A9-1A2343C566B4
+INFO:root:closingforecastUID: 1B63AC66-7C44-4459-BDF1-0C41D2360E77
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: None
+INFO:root:createdate: 2026-05-22T08:34:57.000
+INFO:root:createuserid: 8
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: F8CCF5AF-3EA5-48D0-A313-EF7106A8635F
+INFO:root:customerUID: 8E1B947B-BBF9-4F2A-BE44-2C241C65851C
+INFO:root:closingforecastUID: 1B63AC66-7C44-4459-BDF1-0C41D2360E77
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: None
+INFO:root:createdate: 2026-05-22T12:58:15.000
+INFO:root:createuserid: 8
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 5D97D7EE-CDBC-4EDD-8F40-E99468512D28
+INFO:root:attendedName: Sec. Francisco
+INFO:root:visitNumber: 1
+INFO:root:latitude: -29.5109137
+INFO:root:longitude: -51.9625234
+INFO:root:note: Feita Adesão de Mini Escavadeira XE 35U nova. Empenho de sair nos próximos dias.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas constantes.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-22T13:04:09.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: F8CCF5AF-3EA5-48D0-A313-EF7106A8635F
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 17C82A04-D434-4964-9129-DAFACE361BC6
+INFO:root:customerUID: 98DADA87-00E9-45D7-9170-0F4CEF6CE8FB
+INFO:root:closingforecastUID: 1B63AC66-7C44-4459-BDF1-0C41D2360E77
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: None
+INFO:root:createdate: 2026-05-22T13:05:50.000
+INFO:root:createuserid: 8
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:venv:expected_inserts: 1
+INFO:venv:total_inserts customers: 6
+INFO:venv:expected_inserts customers: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: DE145C98-81F5-47B3-9287-EB535239BE27
+INFO:root:attendedName: Prefeito Scorssatto/ Sec. Renato
+INFO:root:visitNumber: 1
+INFO:root:latitude: -29.5109428
+INFO:root:longitude: -51.9625199
+INFO:root:note: Feita Adesão de Ata para compra de uma GR 1905BR nova. Contrato e Empenho devem sair nos próximos dias.
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitas constantes.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 8
+INFO:root:createdate: 2026-05-22T13:19:24.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 17C82A04-D434-4964-9129-DAFACE361BC6
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: AC8DC835-89D5-4327-9BB8-1DEEA189DB19
+INFO:root:attendedName: Secretário
+INFO:root:visitNumber: 2
+INFO:root:latitude: -27.8866529
+INFO:root:longitude: -52.2237925
+INFO:root:note: Fazendo um trabalho para tomar conta do município 
+Em seguida sai uma mini
+INFO:root:concerns: None
+INFO:root:nextSteps: Segue em contato
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 18
+INFO:root:createdate: 2026-05-21T12:37:08.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 093D13E7-0503-4440-B1C3-92D2BD1146A3
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: B04D3DDC-FFCF-4EDC-A896-32FA489401BB
+INFO:root:attendedName: Sergio
+INFO:root:visitNumber: 3
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Vai sair uma mini carregadeira
+INFO:root:concerns: None
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 18
+INFO:root:createdate: 2026-05-22T09:59:28.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 093D13E7-0503-4440-B1C3-92D2BD1146A3
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 81EAC0AD-6770-4549-96A1-D97A96F5B259
+INFO:root:customerUID: 37F51FAD-EDF0-4E68-BB26-EA5D9E2EF931
+INFO:root:closingforecastUID: EF65CD66-6DD2-4EB7-8BB4-79BEB47326DD
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: E92F9B9F-4CAE-4D81-8F69-8C27A98ACC7D
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: XE 225 cirau
+INFO:root:createdate: 2026-05-22T09:57:50.000
+INFO:root:createuserid: 18
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 537E6499-F159-4EE5-8BB5-8E490DC47A6A
+INFO:root:attendedName: Renan
+INFO:root:visitNumber: 1
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Estamos em negócio de uma 225
+INFO:root:concerns: None
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 18
+INFO:root:createdate: 2026-05-22T09:58:47.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 81EAC0AD-6770-4549-96A1-D97A96F5B259
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: FCC60E74-F012-4791-AFFA-27AD2C552E38
+INFO:root:customerUID: 4DCCFDCA-2C95-41E6-9779-6390634ACCDE
+INFO:root:closingforecastUID: A09CDA99-A219-4959-BFC6-CD1F0F65CBA7
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: E92F9B9F-4CAE-4D81-8F69-8C27A98ACC7D
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: Motoniveladora cirau
+INFO:root:createdate: 2026-05-20T16:40:32.000
+INFO:root:createuserid: 18
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 1D0A4403-44A0-4FE3-9587-ABD157027668
+INFO:root:attendedName: Orlando
+INFO:root:visitNumber: 1
+INFO:root:latitude: -27.82068
+INFO:root:longitude: -52.4426533
+INFO:root:note: Vai sair leilão vou vender uma motoniveladora
+INFO:root:concerns: None
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 18
+INFO:root:createdate: 2026-05-20T16:41:16.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: FCC60E74-F012-4791-AFFA-27AD2C552E38
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 1F28D72B-FADE-47CA-BA91-F412378A4420
+INFO:root:attendedName: Wilson
+INFO:root:visitNumber: 24
+INFO:root:latitude: -29.5380823
+INFO:root:longitude: -52.5196243
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Visita de rotina.
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: 6E1FD2E8-D816-4090-B28D-FD305028B069
+INFO:root:createuserid: 13
+INFO:root:createdate: 2026-05-25T11:18:27.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 1328E9D1-585B-4A17-A58E-DFEDCBEDB1E1
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: AD9C64BA-8DA5-4FE3-955E-F04630B6852A
+INFO:root:customerUID: FF373837-8DD6-4B9A-9E39-4177E41DC173
+INFO:root:closingforecastUID: 41283343-9D8B-4E0E-B73B-C37E2378A2B2
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Em conversa com o prefeito Andre, esta cotando novos equipamentos, deixo ata com a responsável do setor Amanda
+INFO:root:createdate: 2026-05-25T14:23:23.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 47DB5D26-F2D1-422E-A81F-81A57242911F
+INFO:root:attendedName: Amanda
+INFO:root:visitNumber: 1
+INFO:root:latitude: -29.8006255
+INFO:root:longitude: -51.8642787
+INFO:root:note: Em conversa com o prefeito Andre, esta cotando novos equipamentos, deixo ata com a responsável do setor Amanda
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-25T14:23:54.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: AD9C64BA-8DA5-4FE3-955E-F04630B6852A
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: F0E5E0DD-1021-4A2E-9308-1F50B3144018
+INFO:root:attendedName: Prefeito e juridico
+INFO:root:visitNumber: 5
+INFO:root:latitude: -27.7090442
+INFO:root:longitude: -53.135607
+INFO:root:note: Duas motoniveladora emenda Pix Pompeo
+Pode sair está semana ainda
+INFO:root:concerns: None
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 18
+INFO:root:createdate: 2026-05-25T15:59:48.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 57D900B5-EB45-466F-9B83-41A8AEB4BAF9
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 100F1B26-3AD4-4854-A88C-AE2CCA0E4BF9
+INFO:root:attendedName: Peterson
+INFO:root:visitNumber: 4
+INFO:root:latitude: -28.51728
+INFO:root:longitude: -54.1617117
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Alinhando Documentação para mandar para o Sicoob!
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-25T15:00:22.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 3A32E228-7A66-403B-B0C1-D9A2D05A68FC
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 2520B6E7-8442-4416-A8DC-1A7BBB9BC002
+INFO:root:attendedName: Régis
+INFO:root:visitNumber: 2
+INFO:root:latitude: -28.5257623
+INFO:root:longitude: -54.1491269
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Deseja carregadeira até R$150.000,00
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: D4ADAF02-EE86-49E5-B03B-F1584C775025
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-25T15:20:52.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 5373CF19-7D53-4DF3-9588-56DC3264D4D9
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 68588669-2066-446E-BF43-42574512BE63
+INFO:root:attendedName: Prefeito Marasca / Vice Redel
+INFO:root:visitNumber: 3
+INFO:root:latitude: -27.8501784
+INFO:root:longitude: -54.1891878
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Negociação em uma Escavadeira
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EAE2BBF9-266F-4175-AC67-299AA4B4F15B
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-26T09:44:37.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: A0012A41-7D18-4315-B9EA-B83BD6614A41
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 5BB53350-820B-4B1B-88B4-7F8049C7CAFA
+INFO:root:attendedName: Prefeito Lauri Vice Áureo
+INFO:root:visitNumber: 3
+INFO:root:latitude: -27.5087674
+INFO:root:longitude: -54.3634702
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Negociando adesão ao RoloCompactador
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-26T11:45:22.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 40407923-6B7E-4AEA-B22C-8ADBA07EEB9C
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 1
+INFO:venv:total_inserts customers: 4
+INFO:venv:expected_inserts customers: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 217E03AF-41F8-496F-9452-ECEBFD7569DC
+INFO:root:attendedName: Prefeito
+INFO:root:visitNumber: 6
+INFO:root:latitude: -28.84547
+INFO:root:longitude: -53.43964
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Hoje está saindo a adesão rolo compactador da Ata do cimau
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-26T10:00:29.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 0F7AE60B-756B-4A18-B839-15EA66348EEA
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: E6B78455-C8BA-4C50-B69D-421624E97049
+INFO:root:attendedName: Prefeito
+INFO:root:visitNumber: 5
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Amanhã é pra sair a adesão do Rolo compactador
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-25T16:21:22.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 0F7AE60B-756B-4A18-B839-15EA66348EEA
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 25A97931-A215-4668-B93F-0AF0B21A6524
+INFO:root:attendedName: Renato
+INFO:root:visitNumber: 3
+INFO:root:latitude: -28.5946408
+INFO:root:longitude: -52.8567977
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Prefeito está em Brasília. Semana que vem vamos fazer adesão da pá carregadeira LW 300
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-20T16:23:30.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 10923A4B-623B-40C5-A90B-60E4BEB33356
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 94049EBE-2BE2-4355-851A-3AC3FB3C359D
+INFO:root:attendedName: Ivandro
+INFO:root:visitNumber: 3
+INFO:root:latitude: -28.6530513
+INFO:root:longitude: -53.584487
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Está vendo financiamento na Sicredi e Sicoob
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-22T11:51:37.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 562B440B-E30F-4C71-9F3F-C03976141C52
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 747033FC-4BD2-46D9-AE98-44CBFFFA2A22
+INFO:root:customerUID: B1C8109F-FB61-47C2-837A-E899A79CCA58
+INFO:root:closingforecastUID: A09CDA99-A219-4959-BFC6-CD1F0F65CBA7
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: D23891C8-20E3-4F20-9953-7F032BFD953A
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: None
+INFO:root:createdate: 2026-05-26T13:26:20.000
+INFO:root:createuserid: 19
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 3F7F12A7-83AD-44F5-AAF4-B6F8AB77BB9A
+INFO:root:attendedName: Felipe
+INFO:root:visitNumber: 1
+INFO:root:latitude: -29.092072
+INFO:root:longitude: -53.1956202
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Está fazendo financiamento bancário. Vendo juros mais em conta
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-26T13:27:07.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 747033FC-4BD2-46D9-AE98-44CBFFFA2A22
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: DDB82A54-D5F5-4157-9A4A-FDF55114936B
+INFO:root:attendedName: Claudir
+INFO:root:visitNumber: 2
+INFO:root:latitude: -29.0892214
+INFO:root:longitude: -53.2130087
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Falou que a pedreira nova não tem ainda liberação. Mas que depois das eleições vai negociar as máquinas
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-21T11:58:49.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 74E9B8EB-ECB7-4D0F-80D8-3CDBF89D404E
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 374E6858-5213-47FB-BD39-80C23C32804C
+INFO:root:attendedName: Sec. Obras
+INFO:root:visitNumber: 7
+INFO:root:latitude: -28.6549325
+INFO:root:longitude: -53.6274289
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Vão fazer adesão da Ata de registro.  Está no jurídico
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 6448A430-FB2A-4355-B62C-549E9FEDA02A
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 19
+INFO:root:createdate: 2026-05-22T14:14:26.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 8A3E0594-59DB-47E9-880F-DBE9E3D985A5
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 1
+INFO:venv:total_inserts customers: 4
+INFO:venv:expected_inserts customers: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 4BA5E1BE-3D54-40F5-BF93-1AF55344C168
+INFO:root:attendedName: Prefeito Saul
+INFO:root:visitNumber: 2
+INFO:root:latitude: -29.6198756
+INFO:root:longitude: -53.3896815
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Vai fazer adesão a ATA
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 13
+INFO:root:createdate: 2026-05-26T11:30:49.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 13220E36-838F-4CC7-8F64-0431735B4427
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 3BC42C5D-2F2C-4E58-A206-DBB70E2937A1
+INFO:root:customerUID: 869A79B0-08FE-44D4-89A0-420613895916
+INFO:root:closingforecastUID: 1B63AC66-7C44-4459-BDF1-0C41D2360E77
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: 43648989-31F2-43E8-9BE8-C0DDF273E463
+INFO:root:note: None
+INFO:root:createdate: 2026-05-26T14:19:10.000
+INFO:root:createuserid: 13
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: D572BF8B-49DB-4C4A-A160-D9100379CE0F
+INFO:root:attendedName: Claiton
+INFO:root:visitNumber: 4
+INFO:root:latitude: -29.7343383
+INFO:root:longitude: -53.17464
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Visita de rotina
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: 6E1FD2E8-D816-4090-B28D-FD305028B069
+INFO:root:createuserid: 13
+INFO:root:createdate: 2026-05-26T13:27:58.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: DE0F153F-9A6D-4637-8600-AF5A23371AB4
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 58C8A05C-750B-4174-908B-392E93ACE0C4
+INFO:root:attendedName: Sec Planejamento Clovis
+INFO:root:visitNumber: 3
+INFO:root:latitude: -27.9527202
+INFO:root:longitude: -54.7532571
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Negociação de uma Motoniveladora
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-26T14:30:00.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: AE4E6998-7D04-4239-BA46-2E5BCAEF07E5
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 3B536ED2-A336-48C9-9E2C-C841D29BD33A
+INFO:root:attendedName: Giancarlo
+INFO:root:visitNumber: 5
+INFO:root:latitude: -29.1669154
+INFO:root:longitude: -51.5175402
+INFO:root:note: Visita no momento não tem recursos disponíveis para aquisição de equipamentos
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: 6E1FD2E8-D816-4090-B28D-FD305028B069
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-26T16:16:58.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: E62FC4F3-813A-43FD-8074-24C5DE05B973
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 1391D9B4-DCAD-4322-A930-E18499514FF0
+INFO:root:attendedName: Andre
+INFO:root:visitNumber: 2
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Em conversa com o cliente Andre não ganharam a licitação de horas máquinas com o novo equipamento 
+Pro final do ano vão trabalhar para aquisição de uma mini vibro acabadora
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-26T16:19:27.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: F1B80BB7-BD4A-4A93-8E08-F27C4DEE441C
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 9218374D-65BB-4849-8AED-24D006235497
+INFO:root:attendedName: Prefeito e vice
+INFO:root:visitNumber: 2
+INFO:root:latitude: -27.7034892
+INFO:root:longitude: -52.4227843
+INFO:root:note: Possível sai está semana ainda
+INFO:root:concerns: None
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 18
+INFO:root:createdate: 2026-05-26T16:07:10.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 71120BC9-E613-40B6-9384-709DFDB3A1A2
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 1
+INFO:venv:total_inserts customers: 5
+INFO:venv:expected_inserts customers: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 01CD9731-C0F3-474B-AC44-1583A45230F9
+INFO:root:attendedName: Sec Agricultura Gerson
+INFO:root:visitNumber: 6
+INFO:root:latitude: -27.87566
+INFO:root:longitude: -54.4696724
+INFO:root:note: None
+INFO:root:concerns: None
+INFO:root:nextSteps: Marcar próxima reunião com Prefeito e Vice para ver oportunidade de colocar Retroescavadeira
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EAE2BBF9-266F-4175-AC67-299AA4B4F15B
+INFO:root:createuserid: 102
+INFO:root:createdate: 2026-05-26T15:56:38.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 22DD486F-9EBF-41A9-9C8B-5E2192BD1B3A
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 8FB24C42-86A4-41E7-B68B-164E530263E3
+INFO:root:customerUID: 88D9686E-90A3-4DBC-B5F6-6D318B0DCCA7
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Em conversa com o Roger setor de compras não tem previsão no momento, prefeito em viagem secretário ausente no momento
+INFO:root:createdate: 2026-05-27T11:27:30.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 7CD54219-DC1C-43D4-B498-5988E360E360
+INFO:root:attendedName: Roger
+INFO:root:visitNumber: 1
+INFO:root:latitude: -28.9907472
+INFO:root:longitude: -51.4073807
+INFO:root:note: Em conversa com o Roger setor de compras não tem previsão no momento, prefeito em viagem secretário ausente no momento
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: D4ADAF02-EE86-49E5-B03B-F1584C775025
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-27T11:28:01.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 8FB24C42-86A4-41E7-B68B-164E530263E3
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: D4C5166C-2351-4D14-9770-B65D0E548319
+INFO:root:customerUID: 2F3A050A-0A80-479E-BA05-8EAEB140F501
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Em conversa com o Alexandre não tem previsão de compra no momento, comprou uma zooline 35, e o serviço está parado
+INFO:root:createdate: 2026-05-27T11:50:49.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 2E8FB3AE-E772-4FA7-828C-AB2FF8CC7675
+INFO:root:attendedName: Alexandre
+INFO:root:visitNumber: 1
+INFO:root:latitude: -28.9958754
+INFO:root:longitude: -51.4089548
+INFO:root:note: Em conversa com o Alexandre não tem previsão de compra no momento, comprou uma zooline 35, e o serviço está parado
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar contato
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: 6E1FD2E8-D816-4090-B28D-FD305028B069
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-27T11:51:28.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: D4C5166C-2351-4D14-9770-B65D0E548319
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 22681950-E853-4794-BA32-A07DF6FE17C9
+INFO:root:customerUID: F0359ADB-5D6C-488E-A61A-C18A06CA03A9
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Em conversa com o carlos no momento não esta comprando nada por pouca demanda de trabalho não esta na cidade
+INFO:root:createdate: 2026-05-27T11:54:33.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: C1DF6C3E-F0F6-43C9-93E2-F76E44CC476A
+INFO:root:customerUID: F0EE9B3B-FC45-40C3-B354-30C709240114
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Em conversa com o Cassiano no momento não esta comprando nada por pouca demanda de trabalho não esta na cidade
+INFO:root:createdate: 2026-05-27T11:53:05.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: B53A26AD-348D-4738-9437-48FB1A411506
+INFO:root:attendedName: Cassiano
+INFO:root:visitNumber: 1
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Em conversa com o Cassiano no momento não esta comprando nada por pouca demanda de trabalho não esta na cidade
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: D4ADAF02-EE86-49E5-B03B-F1584C775025
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-27T11:53:31.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: C1DF6C3E-F0F6-43C9-93E2-F76E44CC476A
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 0
+INFO:venv:total_inserts customers: 0
+INFO:venv:expected_inserts customers: 0
+INFO:root:Executando INSERT na tabela negotiation com os seguintes valores:
+INFO:root:negotiationUID: 5828C719-8C6B-4B5B-B574-5DF0366B882A
+INFO:root:customerUID: 4B40CF63-CF88-48DD-BABF-9A708EB75F51
+INFO:root:closingforecastUID: 8EAC5D9C-C473-44CB-AE33-C124EC607A99
+INFO:root:negotiationstatusUID: 15EFA275-DF63-4124-8F09-BD00C3BEA6B7
+INFO:root:customersourceUID: 90AF0D3F-4C5E-41D3-AD04-5BC00B70BA8E
+INFO:root:priorityUID: D78517C8-2D73-4491-A55C-C2E6BB049895
+INFO:root:note: Em conversa com Seu Fim não tem previsão de compras no momento estão passando por umas mudanças na empresa sócios estão se separando
+INFO:root:createdate: 2026-05-27T11:59:47.000
+INFO:root:createuserid: 15
+INFO:root:isActive: 1
+INFO:root:INSERT executado com sucesso na tabela negotiation. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: F5697551-C422-4DA2-9A01-41911E9274FF
+INFO:root:attendedName: Fim
+INFO:root:visitNumber: 1
+INFO:root:latitude: -28.9961377
+INFO:root:longitude: -51.4084117
+INFO:root:note: Em conversa com Seu Fim não tem previsão de compras no momento estão passando por umas mudanças na empresa sócios estão se separando
+INFO:root:concerns: None
+INFO:root:nextSteps: Continuar visitando
+INFO:root:opportunities: None
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EAE2BBF9-266F-4175-AC67-299AA4B4F15B
+INFO:root:createuserid: 15
+INFO:root:createdate: 2026-05-27T12:00:23.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 5828C719-8C6B-4B5B-B574-5DF0366B882A
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:venv:expected_inserts: 2
+INFO:venv:total_inserts customers: 10
+INFO:venv:expected_inserts customers: 2
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: BFDFD4A0-FD0D-49B6-BA52-F12EEA21A4F9
+INFO:root:attendedName: Cleidir
+INFO:root:visitNumber: 5
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Vai receber duas retrôs da bancada
+INFO:root:concerns: Nenhuma
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: Tentar vender no futuro
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: 6E1FD2E8-D816-4090-B28D-FD305028B069
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-27T12:21:56.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 0FD7820B-7D1F-4697-9055-F8E658EA88F1
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 934702B5-282D-4080-A6B1-18F142138D8E
+INFO:root:attendedName: Guilherme
+INFO:root:visitNumber: 4
+INFO:root:latitude: -29.3355345
+INFO:root:longitude: -50.7942444
+INFO:root:note: Prefeito vai pegar empréstimo para máquina.
+Obs não faz adesão a ata.
+Irão licitar um retro dinheiro de emenda.
+INFO:root:concerns: Valores das retros
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-20T10:02:53.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 15132B43-0A81-4F87-8B39-7CFD082B31E1
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: A621C3F1-3955-44A2-89DE-0FC2627F916C
+INFO:root:attendedName: Rafael
+INFO:root:visitNumber: 2
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Está dando uma segurada.
+Está meio parado
+INFO:root:concerns: Parcelamento direto
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-20T10:04:53.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 19C7C00C-3FD8-4C2A-BB93-06CE4F741105
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 3EF1866E-2074-458E-A536-6417BBFD11C8
+INFO:root:attendedName: Paulo
+INFO:root:visitNumber: 17
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Está aguardando contrato
+INFO:root:concerns: Sair contrato
+INFO:root:nextSteps: Seguir contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-27T12:16:27.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 3B793B52-0C34-4DA7-8A67-6FE12DB5BAC3
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 9D9CF8B0-2536-4D7B-B2C6-80FBD9A67B47
+INFO:root:attendedName: Francisco
+INFO:root:visitNumber: 12
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Me chamou para ver preço de rolo atendi mais seu problema e crédito
+INFO:root:concerns: Crédito
+INFO:root:nextSteps: Seguir contato
+INFO:root:opportunities: Vend
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-27T12:17:30.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 3BFDBBCE-F761-46B2-A39E-7437E5559E02
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: FF68BDB5-5175-4F6F-B702-31F4DAF10BF0
+INFO:root:attendedName: Roque
+INFO:root:visitNumber: 9
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Sem recurso atrás de emenda
+INFO:root:concerns: Sem recurso
+INFO:root:nextSteps: Seguro contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-27T12:22:37.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: 79D37693-F261-420C-A6C5-6AC6A67EDF27
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: A07F9120-729B-4E90-A075-5C933BC2170E
+INFO:root:attendedName: Regis
+INFO:root:visitNumber: 29
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Aguardando uma emenda para agricultura para comprar uma 80
+INFO:root:concerns: Adesão da ata
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-27T12:19:25.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: A9CC8D7B-33D9-41F0-B7F0-A05498A6C3FE
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 63152C7A-FF71-4D96-9232-85392753A4B2
+INFO:root:attendedName: Guido
+INFO:root:visitNumber: 10
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: No aguardo de recurso
+INFO:root:concerns: Liberação do recurso
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-27T12:18:22.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: B74A79DD-3995-4D1D-8310-8E5534EFB086
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 45181F40-A73F-4FF4-9631-9F43583A69DE
+INFO:root:attendedName: Jair
+INFO:root:visitNumber: 22
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Estamos só no aguardo da liberação da emenda
+INFO:root:concerns: Nenhuma
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-27T12:14:26.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: BFA74C7D-C0AD-4944-9230-01245DF33990
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+INFO:root:Executando INSERT na tabela visit com os seguintes valores:
+INFO:root:visitUID: 2E7B9BF6-97F0-4363-BC7D-57BC7F6F2849
+INFO:root:attendedName: Lauri
+INFO:root:visitNumber: 23
+INFO:root:latitude: None
+INFO:root:longitude: None
+INFO:root:note: Está só no aguardo do pagamento da emenda
+INFO:root:concerns: Nenhuma
+INFO:root:nextSteps: Seguir em contato
+INFO:root:opportunities: Venda
+INFO:root:visittypeUID: 5183C564-4BCE-49B3-B083-01EA8F623113
+INFO:root:attendancetypeUID: 042570F8-8AC6-4C9B-93B0-8196FBF8E9F4
+INFO:root:satisfactionUID: EADAFF46-1059-4AE9-87B4-11CFECC7CDA8
+INFO:root:createuserid: 10
+INFO:root:createdate: 2026-05-27T12:15:27.000
+INFO:root:isActive: 1
+INFO:root:negotiationUID: E105BA40-3204-4C0D-96A9-CE0DFC1F463C
+INFO:root:INSERT executado com sucesso. Linhas afetadas: 1
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.

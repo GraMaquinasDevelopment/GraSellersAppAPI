@@ -7,7 +7,7 @@ import openpyxl
 # Credenciais da aplicação
 CLIENT_ID = "0b9754b4-5b19-48bc-8ea7-3e44322c0bf5"
 TENANT_ID = "9f40026c-65e9-49da-a956-531b02c30f6f"
-CLIENT_SECRET = "lCy8Q~LbfNQFMCM6UhMjE6q.yjGpa3EApHdLFchR"
+#CLIENT_OITROCARPORSEGREDOEMINGLES = "lCy8Q~LbfNQFMCM6UhMjE6q.yjGpa3EApHdLFchR"
 
 # URL para obter o token
 TOKEN_URL = f"https://login.microsoftonline.com/{TENANT_ID}/oauth2/v2.0/token"

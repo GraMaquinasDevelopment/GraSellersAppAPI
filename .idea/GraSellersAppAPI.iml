@@ -4,7 +4,11 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
+<<<<<<< HEAD
     <orderEntry type="jdk" jdkName="Python 3.13 (GraSellersAppAPI)" jdkType="Python SDK" />
+=======
+    <orderEntry type="jdk" jdkName="Python 3.12 (python)" jdkType="Python SDK" />
+>>>>>>> 6c9e17d11e6ac87cbe04ed80aac2ae4ff5f09c5f
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">

@@ -3,5 +3,9 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (GraSellersAppAPI)" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (GraSellersAppAPI)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (python)" project-jdk-type="Python SDK" />
+>>>>>>> 6c9e17d11e6ac87cbe04ed80aac2ae4ff5f09c5f
 </project>

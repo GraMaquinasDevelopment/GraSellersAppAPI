@@ -11,7 +11,12 @@ router = APIRouter()
 authenticate_dao = AuthenticateDAO()
 
 # Obtém a SECRET_KEY da variável de ambiente
+<<<<<<< HEAD
 SECRET_KEY = '1e255487c1c756ce12133c0762a16fe5779ca1d313470369436f32c2190f56d08eeb0aced2217aeba658a246ac773d01392478e341e56ee1c68a343270d38dfd'#os.getenv("SECRET_KEY")
+=======
+SECRET_KEY = "1e255487c1c756ce12133c0762a16fe5779ca1d313470369436f32c2190f56d08eeb0aced2217aeba658a246ac773d01392478e341e56ee1c68a343270d38dfd"
+#os.getenv("SECRET_KEY")
+>>>>>>> 6c9e17d11e6ac87cbe04ed80aac2ae4ff5f09c5f
 
 # Verifica se a SECRET_KEY está definida
 if SECRET_KEY is None:
